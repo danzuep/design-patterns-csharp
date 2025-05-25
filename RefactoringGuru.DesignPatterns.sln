@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCD7129C-B686-4B85-96F1-0CCD4ABFDD9F}"
 	ProjectSection(SolutionItems) = preProject
@@ -56,6 +56,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.Conceptual.ThreadSafe", "Singleton.Conceptual\ThreadSafe\Singleton.Conceptual.ThreadSafe.csproj", "{4FBA49E6-3CBE-421D-8E4F-182F13B6319D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.RealWorld", "Iterator.RealWorld\Iterator.RealWorld.csproj", "{49B41625-5B5D-4F3A-9B67-7A5E9056C6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.RealWorld", "Memento.RealWorld\Memento.RealWorld.csproj", "{1164CE3D-C0C6-462E-BE13-E340A20C564D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{49B41625-5B5D-4F3A-9B67-7A5E9056C6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49B41625-5B5D-4F3A-9B67-7A5E9056C6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49B41625-5B5D-4F3A-9B67-7A5E9056C6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1164CE3D-C0C6-462E-BE13-E340A20C564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1164CE3D-C0C6-462E-BE13-E340A20C564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1164CE3D-C0C6-462E-BE13-E340A20C564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1164CE3D-C0C6-462E-BE13-E340A20C564D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
